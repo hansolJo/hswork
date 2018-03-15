@@ -23,7 +23,7 @@
 - Pagination 기능 구현
   > JPA의 Pageable을 통해 Pagination 기능 구현(Request시에 page번호 입력)
 
-* 프로젝트 빌드 및 실행 방법 
+** 프로젝트 빌드 및 실행 방법 
 - 실행 방법 
 1. 구글 드라이브 jar 파일 다운 
   > https://drive.google.com/file/d/1WHH4NwbfloLS5cicXYE1RS8seo5NdbPI/view?usp=sharing
